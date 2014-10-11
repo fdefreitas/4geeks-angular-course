@@ -1,0 +1,14 @@
+{
+  "generator-ng-poly": {
+    "markup": "html",
+    "appScript": "js",
+    "controllerAs": true,
+    "passFunc": false,
+    "namedFunc": false,
+    "testScript": "js",
+    "testFramework": "jasmine",
+    "style": "scss",
+    "ngRoute": false,
+    "lastUsedModule": "home"
+  }
+}
